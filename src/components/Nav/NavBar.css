@@ -1,0 +1,138 @@
+.hamburger-menu {
+    position: sticky;
+    margin: 2% 4%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    display: flex;
+    align-items: center;
+
+}
+
+.menu-name {
+    flex: 1;
+    font-family: 'Cormorant Garamond', serif;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.menu-name>p {
+    margin: 0;
+}
+
+.menu-name>p:nth-of-type(1) {
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    color: #D14200;
+}
+
+.menu-name>p:nth-of-type(2) {
+    margin-left: 5%;
+    font-size: clamp(1rem, 3vw, 1, 25rem);
+
+}
+
+
+.menu-items {
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu-items>div {
+    transition: all 300ms ease-in-out;
+
+}
+
+.menu-items>div:hover {
+    color: #D14200;
+    cursor: pointer;
+}
+
+@media screen and (max-width:700px) {
+
+    .hamburger-menu {
+        justify-content: flex-end;
+    }
+
+    .menu-items {
+        top: 30px
+    }
+ 
+    .menu-name>p:nth-of-type(2){
+        display: none;
+    }
+    
+
+    .bar {
+        margin: 2px;
+        height: 1px;
+        width: 20px;
+    }
+
+    .open {
+        justify-content: center;
+    }
+
+    .hamburger-icon {
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+    }
+
+
+
+    .bar {
+        width: 30px;
+        height: 3px;
+        border-radius: 10px;
+        margin: 3px 0;
+        transition: 0.4s;
+        background-color: black;
+    }
+
+    .open .bar:nth-child(1) {
+        transform: rotate(-45deg) translate(-5px, 6px);
+    }
+
+    .open .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .open .bar:nth-child(3) {
+        transform: rotate(45deg) translate(-5px, -6px);
+    }
+
+    .menu-items {
+        margin: 0;
+        height: 90vh;
+        position: absolute;
+        top: 38px;
+        z-index: 1;
+        bottom: 0;
+        left: 70vw;
+        width: 100vw;
+        transform: translateX(100%);
+        transition: all 600ms ease-in-out;
+        background-color: white;
+    }
+
+    .menu-items>div {
+        font-size: 1.5rem;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .open .menu-items {
+        transform: translateX(0%);
+        left: -10%;
+        flex-direction: column;
+        z-index: 13;
+    }
+
+    .hamburger-icon:hover {
+        transform: translateY(-10%);
+        transform: scale(1.02);
+    }
+
+}
