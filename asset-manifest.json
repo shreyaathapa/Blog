@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/Blog/static/css/main.eae83af6.css",
-    "main.js": "/Blog/static/js/main.afcb7afb.js",
-    "static/media/collage1.jpg": "/Blog/static/media/collage1.61e68d2361c10d3626d6.jpg",
+    "main.js": "/Blog/static/js/main.36374756.js",
     "static/media/collage6.jpg": "/Blog/static/media/collage6.39d016574e44a30f2099.jpg",
     "static/media/collage7.jpg": "/Blog/static/media/collage7.47e78e3919b5577b2761.jpg",
     "static/media/tanisha.jpg": "/Blog/static/media/tanisha.fdf35f8fa6e21eb04949.jpg",
     "static/media/susu.jpg": "/Blog/static/media/susu.b6d8cb8c39d62a6a6d83.jpg",
+    "static/media/collage4.jpg": "/Blog/static/media/collage4.2087d6d44aa081c353ff.jpg",
     "static/media/img2.jpg": "/Blog/static/media/img2.05bd60a71982e8bbea7a.jpg",
+    "static/media/collage5.jpg": "/Blog/static/media/collage5.90a15dd06eb9e2e23fdc.jpg",
     "static/media/harshita.jpg": "/Blog/static/media/harshita.460e272f0f2e4447a40c.jpg",
     "static/media/img1.jpg": "/Blog/static/media/img1.12e9d164612695a82502.jpg",
     "static/media/img3.jpg": "/Blog/static/media/img3.6df90a91642d085ed9a7.jpg",
+    "static/media/collage3.jpg": "/Blog/static/media/collage3.fdf63a7e1c522489fe21.jpg",
+    "static/media/collage1.jpg": "/Blog/static/media/collage1.0d9a5f25381af10cded8.jpg",
     "static/media/collage8.jpg": "/Blog/static/media/collage8.149f1c22368c80fcb9c5.jpg",
-    "static/media/collage3.jpg": "/Blog/static/media/collage3.dec8a27cfc459dc7b739.jpg",
-    "static/media/collage4.jpg": "/Blog/static/media/collage4.be0fa2b091f9f6c4b33d.jpg",
     "static/media/shreya2.jpeg": "/Blog/static/media/shreya2.379cd09bde43ae9cf4de.jpeg",
     "static/media/collage9.jpg": "/Blog/static/media/collage9.b6a717b938fa20c77aa6.jpg",
     "static/media/khushi.jpg": "/Blog/static/media/khushi.1aa001a1a87e7f174c81.jpg",
     "static/media/collage2.jpeg": "/Blog/static/media/collage2.dcec73e665a0a04138b2.jpeg",
     "index.html": "/Blog/index.html",
     "main.eae83af6.css.map": "/Blog/static/css/main.eae83af6.css.map",
-    "main.afcb7afb.js.map": "/Blog/static/js/main.afcb7afb.js.map"
+    "main.36374756.js.map": "/Blog/static/js/main.36374756.js.map"
   },
   "entrypoints": [
     "static/css/main.eae83af6.css",
-    "static/js/main.afcb7afb.js"
+    "static/js/main.36374756.js"
   ]
 }
