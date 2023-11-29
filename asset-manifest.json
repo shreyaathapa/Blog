@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Blog/static/css/main.889be3ba.css",
-    "main.js": "/Blog/static/js/main.af3dcc78.js",
-    "static/media/demoPic.webp": "/Blog/static/media/demoPic.75637711e1d792e79d26.webp",
-    "static/media/demoPic2.webp": "/Blog/static/media/demoPic2.14b14dc3b63a958a536a.webp",
-    "static/media/demopic3.webp": "/Blog/static/media/demopic3.5d9da95c4019d3ccd7cd.webp",
+    "main.css": "/Blog/static/css/main.4329d75e.css",
+    "main.js": "/Blog/static/js/main.babfb2b7.js",
+    "static/media/tanisha.jpg": "/Blog/static/media/tanisha.fdf35f8fa6e21eb04949.jpg",
+    "static/media/susu.jpg": "/Blog/static/media/susu.b6d8cb8c39d62a6a6d83.jpg",
+    "static/media/img2.jpg": "/Blog/static/media/img2.05bd60a71982e8bbea7a.jpg",
+    "static/media/harshita.jpg": "/Blog/static/media/harshita.460e272f0f2e4447a40c.jpg",
+    "static/media/img1.jpg": "/Blog/static/media/img1.12e9d164612695a82502.jpg",
+    "static/media/img3.jpg": "/Blog/static/media/img3.6df90a91642d085ed9a7.jpg",
+    "static/media/khushi.jpg": "/Blog/static/media/khushi.1aa001a1a87e7f174c81.jpg",
     "index.html": "/Blog/index.html",
-    "main.889be3ba.css.map": "/Blog/static/css/main.889be3ba.css.map",
-    "main.af3dcc78.js.map": "/Blog/static/js/main.af3dcc78.js.map"
+    "main.4329d75e.css.map": "/Blog/static/css/main.4329d75e.css.map",
+    "main.babfb2b7.js.map": "/Blog/static/js/main.babfb2b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.889be3ba.css",
-    "static/js/main.af3dcc78.js"
+    "static/css/main.4329d75e.css",
+    "static/js/main.babfb2b7.js"
   ]
 }
